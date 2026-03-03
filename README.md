@@ -7,4 +7,4 @@ Hosting dilakukan secara lokal menggunakan XAMPP.
 - Autentikasi user
 - Tampilan responsif dengan Bootstrap
 
-![photo_6140934954561506472_w](https://github.com/user-attachments/assets/f83fc668-3bf9-453b-bb97-e51ea4b3e8e4)
+<img width="1356" height="630" alt="image" src="https://github.com/user-attachments/assets/520fbc8a-3e71-45e6-9f21-48b6c1598536" />
